@@ -1,2 +1,2 @@
 # Natural-Language-Processing
-Ahmed ElSallab Natural Language Processing Course Exercises
+My Exercises on Deeplearning for Natural Language Processing
